@@ -1,5 +1,7 @@
 # Go_Back_N
 
+This is the code I wrote through visual studio 2019 on windows.
+
 Explanation
   - This is the code that implements bidirectional Go back N.
   - If the sender is A, the receiver must be B, and if the sender is B, the receiver must be A.

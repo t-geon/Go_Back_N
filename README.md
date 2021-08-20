@@ -11,7 +11,7 @@ Explanation
   -In this project, the upper layer is called layer5 and the lower layer is set as layer 3.
   
   
-- input
+input
   1. The first input is the number of messages coming from the upper layer.
   2. The second input is the packet loss probability.
     -> In case of packet loss, it is ignored because the packets in the desired order are not delivered.
